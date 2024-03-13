@@ -1,0 +1,6 @@
+framework module Pods_ExampleGoogleAdmob_ExampleGoogleAdmobUITests {
+  umbrella header "Pods-ExampleGoogleAdmob-ExampleGoogleAdmobUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
